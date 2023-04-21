@@ -8,3 +8,8 @@
 	url = https://github.com/ambuvjyn/baseq
 	shallow = true
 	registered = true
+[submodule "fixr"]
+	path = fixr
+	url = https://github.com/ambuvjyn/fixr
+	shallow = true
+	registered = true
